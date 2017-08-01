@@ -1,0 +1,15 @@
+markdown: kramdown
+permalink: /:title/
+url: http://arikachen.github.io
+name: Arika Chen
+author: Arika Chen
+qq:
+email: eaglesora@gmail.com
+duoshuo:
+beian:
+cnzz:
+weibo:
+github: ArikaChen
+safe: true
+paginate: 20
+about: ""
